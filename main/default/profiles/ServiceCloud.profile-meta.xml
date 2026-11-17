@@ -175,14 +175,6 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>LOG2989SourceCtrl</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>LOG2989SourceDemo</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>LogLimitsController</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -11370,10 +11362,6 @@
         <object>pharos__Trace_Schedule__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
-    <pageAccesses>
-        <apexPage>LOG2989SourcePage</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
     <pageAccesses>
         <apexPage>pharos__Admin</apexPage>
         <enabled>false</enabled>
