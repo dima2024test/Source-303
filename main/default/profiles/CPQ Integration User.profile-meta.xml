@@ -199,6 +199,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>QA_LOG3033_Src</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>Triton</apexClass>
         <enabled>false</enabled>
     </classAccesses>
