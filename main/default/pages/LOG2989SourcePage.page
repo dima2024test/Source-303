@@ -1,1 +1,0 @@
-<apex:page controller="LOG2989SourceCtrl" action="{!runDemo}"><p>LOG-2989 source demo</p></apex:page>
