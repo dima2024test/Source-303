@@ -203,6 +203,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>TestOneTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>Triton</apexClass>
         <enabled>false</enabled>
     </classAccesses>
