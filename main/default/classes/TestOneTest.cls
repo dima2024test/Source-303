@@ -1,7 +1,9 @@
 public with sharing class TestOneTest implements Database.Batchable<SObject> {
 
     @TestVisible
-    private static final String THROW_EXCEPTION_MESSAGE = 'Batch Error Test 2';
+    private static final String THROW_EXCEPTION_MESSAGE = 'Batch Error Test NEW2';
+
+    
 
     private final Boolean shouldThrow;
     public TestOneTest(Boolean shouldThrow) {
